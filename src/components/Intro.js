@@ -5,10 +5,10 @@ const Intro = () => {
             <Container className="text-white text-center d-flex justify-content-center align-items-center">
                 <Row>
                     <Col>
-                        <div className="title">ON TARGET</div>
-                        <div className="title">MISSION COMPLETE</div>
+                        <div className="title">GAMES STORE</div>
+                        <div className="title">Download Popular Games</div>
                         <div className="introButton mt-4 text-center">
-                        <Button variant="dark">See All List</Button>
+                        <Button href="#best" variant="dark">See All List</Button>
                         </div>
                     </Col>
                 </Row>

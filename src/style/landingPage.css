@@ -1,6 +1,6 @@
 .myBG {
     height: 100vh;
-    background: url("../asset/bg/bg1.jpg");
+    background: url("../asset/bg/bg2.jpg");
     background-size: cover;
 }
 
@@ -21,7 +21,7 @@
 
 .trending {
     height: auto;
-    background: url("../asset/bg/bg4.jpg");
+    background: url("../asset/bg/bg6.JPG");
     background-size: cover;
 }
 
